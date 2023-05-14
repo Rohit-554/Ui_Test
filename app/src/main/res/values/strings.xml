@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usr_name">Mr John</string>
+    <string name="usr_location_details">Kolkata, within 100-200m</string>
+    <string name="tv_invite">+ INVITE</string>
+    <string name="user_about_desc">Hi Community! I am Rohit, a Student. I am looking for a friend to hang out with. I love coffee, business and friendship. I am also looking for a friend to hang out with. I love coffee, business and friendship.</string>
+    <string name="select_your_availability">Select Your Availability</string>
+    <string name="add_your_status">Add Your Status</string>
+    <string name="welcome_">Hi community, I am open to new Connections.</string>
+    <string name="select_hyper_local_distance">Select Hyper local Distance</string>
+    <string name="select_pupose">Select Pupose</string>
+    <string name="Refine">Refine</string>
+    <string name="Explore">Explore</string>
+</resources>

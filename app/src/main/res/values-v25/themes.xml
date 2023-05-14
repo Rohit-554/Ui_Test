@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textInputEditTextCustom" parent="ThemeOverlay.Material3.TextInputEditText">
+        <item name="android:colorSecondary">@color/primaryTextColor</item>
+    </style>
+
+</resources>
