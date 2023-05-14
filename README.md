@@ -1,4 +1,4 @@
-# Ui_Text (in XML-Android)
+# Ui_Text (in XML,equipped with material UI)
 <b>*NOTE - Build and Run the Application in Android Studio,The default preview in xml file doesn't depict much because some parts are in Kotlin code too</b>
 <h3>OUTPUTS</h3> 
 
@@ -11,6 +11,8 @@
   
 </p>
 <br>
+
+## Video
 <p float="left">
   <img src="https://github.com/Rohit-554/Ui_Test/assets/48874687/84f28883-685a-4951-a8c7-7c89f0228e8f" width="220" height = "450" />
   <img src="https://github.com/Rohit-554/Ui_Test/assets/48874687/1b7a0b79-56e3-4f2a-86fc-fdcba501f6c5" width="220" height = "450" /> 
